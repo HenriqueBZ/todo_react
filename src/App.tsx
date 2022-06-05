@@ -3,6 +3,9 @@ import React from 'react'
 // CSS
 import styles from "./App.module.css"
 
+// Interface
+import { ITask } from './interfaces/Task'
+
 // Components
 import Footer from './components/Footer'
 import Header from './components/Header'
