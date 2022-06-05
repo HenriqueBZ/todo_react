@@ -4,6 +4,10 @@
     font-family: Helvetica;
 }
 
+.hide {
+    display: none !important;
+}
+
 .main {
     min-height: 60vh;
     text-align: center;
